@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>org.terrence</groupId>
-	<artifactId>cfenv-processor-watson-assistant</artifactId>
+	<artifactId>cfenv-processor-watson-language-translator</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>cfenv-processor-watson-assistant</name>
+	<name>cfenv-processor-watson-language-translator</name>
 	<description>A CfEnvProcessor Implementation for Watson Language Translator</description>
 
 	<properties>
